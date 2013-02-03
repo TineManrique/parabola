@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1358297714 source:c:\users\public\documents\new folder\blaaaaaaaaaaah\main.cpp
+	<iostream>
+	"Parabola.h"
+
+1358264601 c:\users\public\documents\new folder\blaaaaaaaaaaah\parabola.h
+
+1358297840 source:c:\users\public\documents\new folder\blaaaaaaaaaaah\parabola.cpp
+	"Parabola.h"
+	<math.h>
+	<iostream>
+
+1358764237 source:c:\users\christine\desktop\blaaaaaaaaaaah\main.cpp
+	<iostream>
+	"Parabola.h"
+
+1358268201 c:\users\christine\desktop\blaaaaaaaaaaah\parabola.h
+
+1358663809 source:c:\users\christine\desktop\blaaaaaaaaaaah\parabola.cpp
+	"Parabola.h"
+	<math.h>
+	<iostream>
+
+1358764237 source:c:\users\christine\desktop\christine\blaaaaaaaaaaah\main.cpp
+	<iostream>
+	"Parabola.h"
+
+1358268201 c:\users\christine\desktop\christine\blaaaaaaaaaaah\parabola.h
+
+1358764297 source:c:\users\christine\desktop\christine\blaaaaaaaaaaah\parabola.cpp
+	"Parabola.h"
+	<math.h>
+	<iostream>
+
